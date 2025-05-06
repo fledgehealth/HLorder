@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-06T18:05:43 IST" name="Surefire suite" finished-at="2025-05-06T18:05:47 IST" duration-ms="3864">
+    <groups>
+    </groups>
+    <test started-at="2025-05-06T18:05:43 IST" name="Surefire test" finished-at="2025-05-06T18:05:47 IST" duration-ms="3864">
+      <class name="tests.PlaceOrderTest">
+        <test-method signature="testPlaceOrderAPI()[pri:0, instance:tests.PlaceOrderTest@126253fd]" started-at="2025-05-06T18:05:43 IST" name="testPlaceOrderAPI" finished-at="2025-05-06T18:05:47 IST" duration-ms="3764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlaceOrderAPI -->
+      </class> <!-- tests.PlaceOrderTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
